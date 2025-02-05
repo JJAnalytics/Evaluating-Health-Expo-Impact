@@ -5,3 +5,11 @@ This analysis will focus on a health expo held in the UK, with participant addre
 
 ## Dataset
 - <a href="https://github.com/JJAnalytics/Evaluating-Health-Expo-Impact/blob/main/Heath%20Expo%20Questionnaire.xlsx">Dataset</a>
+
+## Questions (KPIs)
+-	What is the attendance rate for the program?
+-	What is the geographic reach of the program?
+-	What is the gender distribution of the participants?
+-	How relevant and engaging is the program to the participants' interests and needs?
+
+
