@@ -15,7 +15,7 @@ This analysis will focus on a health expo held in the UK, with participant addre
 
 ## Cleaning & Transformation
 
-- Correct data types.
+- Corrected data types.
 - Removed inconsistent data.
 - Created Pivot tables.
 - Renamed Columns.
@@ -48,8 +48,8 @@ Analyse a larger number of participants to ensure a more representative sample a
 - Zip codes may not fully capture the diversity within regions, as they don't account for specific local issues.
 Complement zip code data with additional demographic or community insights, such as local health trends or needs.
 
-- If follow-ups are not personalized, engagement may drop. 
-Use postcode data and feedback to send tailored health resources and event invites, ensuring relevance for each participant.
+- If follow-ups are not personalised, engagement may drop. 
+Use zip code data and feedback to send tailored health resources and event invites, ensuring relevance for each participant.
 
 ## Summary
 
