@@ -23,7 +23,7 @@ This analysis will focus on a health expo held in the UK, with participant addre
 
 ## Dashboard
 
-- ![image](https://github.com/user-attachments/assets/401f8542-41a5-4aa7-ac53-d66e5fc67a2a)
+![image](https://github.com/user-attachments/assets/401f8542-41a5-4aa7-ac53-d66e5fc67a2a)
 
 
 ## Insights & Recommendations
