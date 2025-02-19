@@ -11,7 +11,7 @@ This analysis will focus on a health expo held in the UK, with participant addre
 -	What is the geographic reach of the program?
 -	What is the gender distribution of the participants?
 -	How relevant and engaging is the program to the participants' interests and needs?
-- <a href="https://github.com/JJAnalytics/Evaluating-Health-Expo-Impact/blob/main/Dashboard.png">View Dashboard</a>.
+- <a href="https://github.com/JJAnalytics/Evaluating-Health-Expo-Impact/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Cleaning & Transformation
 
